@@ -11,4 +11,4 @@ Steps to clone the project and start exploring:
 * If the projects runs wihtout any build errors, you are aready to play with this project
   
 Disclaimer:
-* This code was salvaged from a crashed machine and hence incomplete
+* This code does't have any quality checks and doesn't follow any software engineering principles
