@@ -8,7 +8,7 @@ Steps to clone the project and start exploring:
 * Open the cloned repository directory `detectofftopictweets` using IntelliJ IDE
 * Add all the jars in the `lib` directory to the project classpath by modifying the project properties
 * Build the project and run the `ProcessTwitterStream` class
-* If the projects runs wihtout any build errors, you are aready to play with this project
+* If the projects runs without any build errors, you are aready to start exploring this project
   
 Disclaimer:
 * This code does't have any quality checks and doesn't follow any software engineering principles
